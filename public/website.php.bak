@@ -1,0 +1,431 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<script src="js/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+			<script src="https://kit.fontawesome.com/9ddc0bba90.js" crossorigin="anonymous"></script>
+</head>
+<style>
+	header{
+		background: url("image/maxresdefault.jpg")
+			no-repeat center center fixed;
+			height: 655px;
+			background-size: cover;
+	}
+	nav{background: rgba(0,0,0,0.6);
+		
+	}
+	li:hover{
+		background:rgba(199,6,10,1.00)
+	}
+/*
+	body{
+		background: rgba(57,54,54,1.00);
+	}
+*/
+	</style>
+
+<body>
+<header class="d-flex align-items-center justify-content-center flex-column">
+<nav class="nav navbar fixed-top navbar-expand-lg py-0 px-5">
+<div class="collapse navbar-collapse">
+<ul class="navbar-nav ">
+<li class="nav-item px-4 py-3">	<a href="#" class="text-white nav-link">Home</a></li>
+<li class="nav-item px-4 py-3">	<a href="#" class="text-white nav-link">Shop</a></li>
+<li class="nav-item px-4 py-3">	<a href="#" class="text-white nav-link">Blog</a></li>
+<li class="nav-item px-4 py-3">	<a href="#"class="text-white nav-link">Contact</a></li>
+
+</ul>
+</div>
+</nav>
+
+	<h1 class="text-center text-white font-weight-bold font-italic " style="font-size: 40px; background: 
+	rgba(0,0,0,0.7)">Momina Garments<br>Winter Collection 2020  </h1>
+	<button class="btn btn-outline-danger px-4 py-2">Download</button>
+</header>
+<div class="container-fluid my-3 w-100">
+	<div class="row bg-danger">
+	<div class="col text-center font-italic font-weight-bold" style="color: white">FREE SHIPPING<br>on all orders over90$</div>
+	<div class="col text-center font-italic font-weight-bold" style="color: white"><i class="fas fa-phone-plus"></i> CALL US ANYTIME<br>+03096764650</div>
+	<div class="col text-center font-italic font-weight-bold" style="color: white">OUR LOCATION<br>Baghban Pura,Lahore</div>
+	
+</div>
+</div>
+
+
+
+
+
+<div class="containr my-3">
+<h2 class="text-left font-italic font-weight-bold ml-3" style="font-size:30px; text-decoration-color:black; text-decoration: underline">"New Jeans Pents Design 2020"</h2>
+	<div class="row no-gutters my-4">
+		<div class="col ml-5 mr-5">
+			<img src="image/download (3).jpg" class="img-fluid">
+			<h6 class="text-center text-success my-2">jeans Pent</h6>
+			<h6 class="text-center text-success">Price: <span  style="text-decoration:line-through">2800</span> &nbsp;<span class=" text-dark">1400</span></h6><center>
+			<div class=""><button class="btn btn-success">Add to
+			 Cart</button> </div></center>
+			
+		</div>
+		<div class="col mr-5">
+			<img src="image/4974beb8e68629b36ea6e6d3058fd9d0_350x350.jpg" class="img-fluid">
+		<h6 class="text-center text-success my-2">Rough jeans Pent</h6>
+			<h6 class="text-center text-success">Price: <span  style="text-decoration:line-through">3000</span> &nbsp;<span class=" text-dark"> 1500</span></h6><center>
+			<div class=""><button class="btn btn-success">Add to
+			 Cart</button> </div></center>
+		</div>
+		<div class="col mr-5">
+			<img src="image/16df4f20673e315ff955145324ccb3f0.jpg_340x340q80.jpg_.webp" class="img-fluid">
+		<h6 class="text-center text-success my-2">Cortton Katrie Pent</h6>
+			<h6 class="text-center text-success">Price: <span  style="text-decoration:line-through">2500</span> &nbsp;<span class=" text-dark"> 1250</span></h6><center>
+			<div class=""><button class="btn btn-success">Add to
+			 Cart</button> </div></center>
+		</div>
+		<div class="col mr-5">
+			<img src="image/f269cf435e3852548bf1161453e8a542.jpg_340x340q80.jpg_.webp" class="img-fluid" >
+		<h6 class="text-center text-success my-2">Cortton Pent</h6>
+			<h6 class="text-center text-success">Price: <span  style="text-decoration:line-through">2000</span> &nbsp;<span class=" text-dark"> 1000</span></h6><center>
+			<div class=""><button class="btn btn-success">Add to
+			 Cart</button> </div></center>
+		</div>
+	</div>
+	
+	
+	
+     <div class="containr my-3">
+<h2 class="text-left font-italic font-weight-bold ml-3" style="font-size:30px; text-decoration-color:black; text-decoration: underline">"New Shoes Design 2020"</h2>
+	<div class="row no-gutters my-4">
+		<div class="col ml-5 mr-5">
+			<img src="image/ppo.webp" class="img-fluid">
+			<h6 class="text-center text-warning my-2">New Desgin White Shoes</h6>
+			<h6 class="text-center text-warning">Price: <span  style="text-decoration:line-through">10000</span> &nbsp;<span class=" text-dark"> 5000</span> </h6><center>
+			<div class=""><button class="btn btn-warning">Add to
+			 Cart</button> </div></center>
+		</div>
+		<div class="col mr-5">
+			<img src="image/yu.webp" class="img-fluid">
+			<h6 class="text-center text-warning my-2">New Design Black Shoes </h6>
+			<h6 class="text-center text-warning">Price: <span  style="text-decoration:line-through">9000</span> &nbsp;<span class=" text-dark"> 4500</span></h6><center>
+			<div class=""><button class="btn btn-warning">Add to
+			 Cart</button> </div></center>
+		</div>
+		<div class="col mr-5">
+			<img src="image/pp.webp" class="img-fluid">
+			<h6 class="text-center text-warning my-2">New Black and White Shoes</h6>
+			<h6 class="text-center text-warning">Price: <span  style="text-decoration:line-through">8000</span> &nbsp;<span class=" text-dark"> 4000</span></h6><center>
+			<div class=""><button class="btn btn-warning">Add to
+			 Cart</button> </div></center>
+		</div>
+		<div class="col mr-5">
+			<img src="image/ioi.webp" class="img-fluid" >
+			<h6 class="text-center text-warning my-2">New Design Brown Shoes</h6>
+			<h6 class="text-center text-warning">Price: <span  style="text-decoration:line-through">7000</span> &nbsp;<span class=" text-dark"> 3500</span></h6><center>
+			<div class=""><button class="btn btn-warning">Add to
+			 Cart</button> </div></center>
+		</div>
+	</div>
+	
+	
+	<div class="container my-5">
+ 	
+	 
+	 <div class="row">
+ 		<div class="col"><h4 class="text-dark font-italic"> Boo Tie </h4><hr class="mb-3 mt-0 bg-info" style="margin-left: 0%" width="15%"></div>
+ 		<div class="col"><h4 class="text-dark font-italic">Man Caps</h4><hr class="mb-3 mt-0 bg-success" style="margin-left:0%" width="15%"></div>
+ 		<div class="col"><h4 class="text-dark font-italic">Leather Belts </h4><hr class="mb-3 mt-0 bg-danger" style="margin-left:0%" width="15%"></div>	
+	 </div>
+	 		
+	 		
+	 	<div class="row">
+	 		<div class="col">
+	 			<img src="image/abbb.jpg" class="img-fluid">
+	 	 	</div>
+	 	 	
+	 	 	<div class="col px-0 font-weight-bold text-info">
+	 	 	   Boo Tie<br>Price:<span class="text-dark" style="text-decoration: line-through">500</span> &nbsp; 250 
+	 	 	   <button class="btn btn-info">Add to Cart</button>
+	 	 	</div>
+	  
+  			<div class="col">
+	  			<img src="image/ca.jpg" class="img-fluid">
+	  		</div>
+	 	 	
+	 	 	<div class="col px-0 font-weight-bold text-success">
+	 	 		Black Cap<br>Price:<span class="text-dark" style="text-decoration: line-through">600</span> &nbsp; 300 
+	 	 	   <button class="btn btn-success">Add to Cart</button>
+	 	 	</div>
+	   
+   			<div class="col pl-0">
+	   			<img src="image/bl.jpg" class="img-fluid">
+		   	</div>
+	 	 	
+	 	 	<div class="col px-0 font-weight-bold text-danger">
+	 	 		Fits belt<br>Price:<span class="text-dark" style="text-decoration: line-through">700</span> &nbsp; 350 
+	 	 	   <button class="btn btn-danger">Add to Cart</button>
+	 	 	</div>
+	  	</div>
+	</div>
+	
+	
+		
+	
+	         <div class="container my-5">
+	 	<div class="row">
+	 		<div class="col">
+	 			<img src="image/ab.jpg" class="img-fluid">
+	 	 	</div>
+	 	 	
+	 	 	<div class="col px-0 font-weight-bold text-info">
+	 	 	   Boo Tie<br>Price:<span class="text-dark" style="text-decoration: line-through">600</span> &nbsp; 300 
+	 	 	   <button class="btn btn-info">Add to Cart</button>
+	 	 	</div>
+	  
+  			<div class="col">
+	  			<img src="image/cc.jpg" class="img-fluid">
+	  		</div>
+	 	 	
+	 	 	<div class="col px-0 font-weight-bold text-success">
+	 	 		Black Cap<br>Price:<span class="text-dark" style="text-decoration: line-through">800</span> &nbsp; 400 
+	 	 	   <button class="btn btn-success">Add to Cart</button>
+	 	 	</div>
+	   
+   			<div class="col pl-0">
+	   			<img src="image/blll.jpg" class="img-fluid">
+		   	</div>
+	 	 	
+	 	 	<div class="col px-0 font-weight-bold text-danger">
+	 	 		Fits belt<br>Price:<span class="text-dark" style="text-decoration: line-through">900</span> &nbsp; 450 
+	 	 	   <button class="btn btn-danger">Add to Cart</button>
+	 	 	</div>
+	  	</div>
+	</div>
+	
+	
+	             
+
+	         <div class="container my-5">
+	 	<div class="row">
+	 		<div class="col">
+	 			<img src="image/abb.jpg" class="img-fluid">
+	 	 	</div>
+	 	 	
+	 	 	<div class="col px-0 font-weight-bold text-info">
+	 	 	   Boo Tie<br>Price:<span class="text-dark" style="text-decoration: line-through">400</span> &nbsp; 200 
+	 	 	   <button class="btn btn-info">Add to Cart</button>
+	 	 	</div>
+	  
+  			<div class="col">
+	  			<img src="image/cca.jpg" class="img-fluid">
+	  		</div>
+	 	 	
+	 	 	<div class="col px-0 font-weight-bold text-success">
+	 	 		Black Cap<br>Price:<span class="text-dark" style="text-decoration: line-through">700</span> &nbsp; 350 
+	 	 	   <button class="btn btn-success">Add to Cart</button>
+	 	 	</div>
+	   
+   			<div class="col pl-0">
+	   			<img src="image/bll.jpg" class="img-fluid">
+		   	</div>
+	 	 	
+	 	 	<div class="col px-0 font-weight-bold text-danger">
+	 	 		Fits belt<br>Price:<span class="text-dark" style="text-decoration: line-through">600</span> &nbsp; 300 
+	 	 	   <button class="btn btn-danger">Add to Cart</button>
+	 	 	</div>
+	  	</div>
+	</div>
+	
+	
+	
+<div class="containr my-5">
+<h2 class="text-dark font-italic ml-4 text-left font-weight-bold">"New Pent Cort Design 2020"</h2><hr class="mb-3 mt-0 bg-danger" style="margin-left:4%" width="5%">
+	<div class="row no-gutters my-4">
+		<div class="col ml-5 mr-5">
+			<img src="image/rBVa31-BKjeAIMfWAAEHd7XEBBs407.jpg" class="img-fluid">
+			<h6 class="text-center text-dark my-2">Two Piece Pent Cort</h6>
+			<h6 class="text-center text-dark">Price: <span  style="text-decoration:line-through">7000</span> &nbsp;<span class="text-danger"> 3500</span></h6><center>
+			<div class=""><button class="btn btn-dark">Add to
+			 Cart</button> </div></center>
+		</div>
+		<div class="col mr-5">
+			<img src="image/product-image-1004965514_800x.jpg" class="img-fluid">
+			<h6 class="text-center text-dark my-2">Two Piece Pent Cort</h6>
+			<h6 class="text-center text-dark">Price: <span  style="text-decoration:line-through">6000</span> &nbsp;<span class="text-danger"> 3000</span></h6><center>
+			<div class=""><button class="btn btn-dark">Add to
+			 Cart</button> </div></center>
+		</div>
+		<div class="col mr-5">
+			<img src="image/c2ed19a787fb43d78a0385be79aa006d.jpg" class="img-fluid">
+			<h6 class="text-center text-dark my-2">Three Piece Pent Cort</h6>
+			<h6 class="text-center text-dark">Price: <span  style="text-decoration:line-through">16000</span> &nbsp; <span class="text-danger">8000</span></h6><center>
+			<div class=""><button class="btn btn-dark">Add to
+			 Cart</button> </div></center>
+		</div>
+		<div class="col mr-5">
+			<img src="image/33828-rgegog.jpg" class="img-fluid" >
+			<h6 class="text-center text-dark my-2">Three Piece Pent Cort</h6>
+			<h6 class="text-center text-dark">Price: <span  style="text-decoration:line-through">14000</span> &nbsp;<span class="text-danger"> 7000</span></h6><center>
+			<div class=""><button class="btn btn-dark">Add to
+			 Cart</button> </div></center>
+		</div>
+	</div>
+	
+		<div style="background:rgba(219,219,219,1.00)">
+	
+ <div class="container my-5">
+ <h4 class="text-dark font-italic font-weight-bold"> From The Blog: </h4><hr class="mb-3 mt-0 bg-danger" style="margin-left:0%" width="5%">
+	<div class="row">
+		<div class="col-1 bg-warning">
+			<h5 class="my-4 ml-1">12<br>June</h5>
+		</div>
+		   <div class="col">
+			<img src="image/claudio-schwarz-purzlbaum-PH8GUKG-Do0-unsplash.jpg" class="img-fluid">
+		   </div>
+			<div class="col font-weight-bold">
+		    New Caps Design<br>What...<br>raibercristain
+		    </div>
+		
+		<div class="col-1 bg-warning">
+			<h5 class="my-4 ml-1">12<br>June</h5>
+		</div>
+			<div class="col">
+				<img src="image/benjamin-voros-TnNo84AJJ5A-unsplash.jpg" class="img-fluid">
+		    </div>
+		  <div class="col font-weight-bold">
+		    Jaket for the Winter<br>What...<br>raibercristain
+		    </div>
+		
+	</div>
+</div>
+	
+     <hr>	
+	
+
+	<div class="container my-5">
+	<div class="row">
+		<div class="col-1 bg-warning">
+			<h5 class="my-4 ml-1">12<br>June</h5>
+		</div>
+		   <div class="col">
+			<img src="image/claudio-schwarz-purzlbaum-PH8GUKG-Do0-unsplash.jpg" class="img-fluid">
+		   </div>
+			<div class="col font-weight-bold">
+		    New Caps Design<br>What...<br>raibercristain
+		    </div>
+		
+		<div class="col-1 bg-warning">
+			<h5 class="my-4 ml-1">12<br>June</h5>
+		</div>
+			<div class="col">
+				<img src="image/benjamin-voros-TnNo84AJJ5A-unsplash.jpg" class="img-fluid">
+		    </div>
+		  <div class="col font-weight-bold">
+		    Jaket for the Winter<br>What...<br>raibercristain
+		    </div>
+		
+	</div>
+</div>
+	</div>
+
+
+     <div class="containr my-3">
+<h2 class="text-dark font-italic ml-4 text-left font-weight-bold">"New Shirts Design 2020"</h2><hr class="mb-3 mt-0 bg-warning" style="margin-left:4%" width="5%">
+	<div class="row no-gutters my-4">
+		<div class="col ml-5 mr-5">
+			<img src="image/lk.jpg" class="img-fluid">
+			<h6 class="text-center text-danger my-2">New Print Shirt</h6>
+			<h6 class="text-center text-danger">Price: <span  style="text-decoration:line-through">2100</span> &nbsp;<span class=" text-dark"> 1050</span> </h6><center>
+			<div class=""><button class="btn btn-danger">Add to
+			 Cart</button> </div></center>
+		</div>
+		<div class="col mr-5">
+			<img src="image/hskj.webp" class="img-fluid">
+			<h6 class="text-center text-danger my-2">New Design Shirt</h6>
+			<h6 class="text-center text-danger">Price: <span  style="text-decoration:line-through">1900</span> &nbsp;<span class=" text-dark"> 950</span></h6><center>
+			<div class=""><button class="btn btn-danger">Add to
+			 Cart</button> </div></center>
+		</div>
+		<div class="col mr-5">
+			<img src="image/hk.jpeg" class="img-fluid">
+			<h6 class="text-center text-danger my-2">New Print Shirt</h6>
+			<h6 class="text-center text-danger">Price: <span  style="text-decoration:line-through">1700</span> &nbsp;<span class=" text-dark"> 850</span></h6><center>
+			<div class=""><button class="btn btn-danger">Add to
+			 Cart</button> </div></center>
+		</div>
+		<div class="col mr-5">
+			<img src="image/o.jpg" class="img-fluid" >
+			<h6 class="text-center text-danger my-2">Dress Shirt</h6>
+			<h6 class="text-center text-danger">Price: <span  style="text-decoration:line-through">1500</span> &nbsp;<span class=" text-dark"> 750</span></h6><center>
+			<div class=""><button class="btn btn-danger">Add to
+			 Cart</button> </div></center>
+		</div>
+	</div>
+
+
+    	<div class="bg-dark">
+    	<div class="container">
+    		<div class="row my-5">
+    		<div class="col my-3">
+    			<h6 class="text-white font-weight-bold">Meta</h6>
+    		</div>
+    		<div class="col my-3">
+    			<h6 class="text-white font-weight-bold">Resent Post</h6>
+    		</div>
+    		<div class="col my-3">
+    			<h6 class="text-white font-weight-bold">About</h6>
+    		</div>
+   	      <div class="col my-3">
+   	      	<h6 class="text-white font-weight-bold">Tags</h6>
+   	      </div>
+   	    
+   	    
+    	    </div>
+    				
+    					
+    							
+    		<div class="row my-5">
+    		
+			<div class="col"><small>
+				<a href="#" class="text-warning">> log in</a><br>
+				<a href="#" class="text-warning">> Enteries feed</a><br>
+				<a href="#" class="text-warning">> Comment feed</a><br>
+				<a href="#" class="text-warning">> WordPress.org</a><br>
+			</small></div>
+			<div class="col">
+				<img src="image/benjamin-voros-TnNo84AJJ5A-unsplash.jpg" class="img-fluid" class="img-fluid " style="height: 60px" width="60px"><br><br>
+				<img src="image/ccc.webp" class="img-fluid" class="img-fluid" style="height: 60px"><br><br>
+				<img src="image/benjamin-voros-TnNo84AJJ5A-unsplash.jpg" class="img-fluid" class="img-fluid" style="height: 60px"  width="60px"><br><br>
+			    <img src="image/ccc.webp" class="img-fluid" style="height: 60px">
+			</div>
+			<div class="col-2" style="margin-left: -15%">
+			<a href="#" class="text-white"><small> Jackets For The Soul. What Color Is Yours?</a></small><br><br>
+			<a href="#" class="text-white"><small>Best New cap Design 2020</a></small><br><br><br>
+			<a href="#" class="text-white"><small>Jackets For The Soul. What Color Is Yours?</a></small><br><br>
+			<a href="#" class="text-white"><small>Best New cap Design 2020</a></small>
+			
+			</div>
+			<div class="col ml-4">
+				<h6 class="text-white"><small>Pri quas audiam virtute ut, case utamur fuisset eam ut, iisque accommodare an eam.</small></h6><br>
+				<h6 class="text-white"><small>Reque blandit qui eu, cu vix nonumy volumus. Legendos intellegam id usu, vide oporteat vix eu, id illud principes has. Nam tempor utamur gubergren no.</small></h6>
+			</div>
+		    <div class="col">
+		    	<button class="btn btn-outline-danger btn-sm mb-2"> Winter</button>
+		    	<button class="btn btn-outline-danger btn-sm mb-2">Dress</button>
+		    	<button class="btn btn-outline-danger btn-sm mb-2">Fashion</button><br>
+		    	<button class="btn btn-outline-danger btn-sm">Jakets</button>
+		    	<button class="btn btn-outline-danger btn-sm">Stocking</button>
+		    	<button class="btn btn-outline-danger btn-sm">Trends</button>
+		    </div>
+       
+          </div>
+          </div>
+       </div>
+
+
+
+
+</body>
+</html>
